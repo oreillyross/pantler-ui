@@ -1,0 +1,30 @@
+{
+  "name": "pantler",
+  "version": "0.0.1",
+  "description": "This is the front end for the pantler app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+     "gulp": "^3.8.10",
+     "gulp-concat": "^2.4.3",
+     "gulp-plumber": "^0.6.6",
+     "gulp-typescript": "^2.4.0",
+     "gulp-uglify": "^1.1.0"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oreillyross/pantler-ui.git"
+  },
+  "author": "Ross O'Reilly",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/oreillyross/pantler-ui/issues"
+  },
+  "homepage": "https://github.com/oreillyross/pantler-ui"
+}
