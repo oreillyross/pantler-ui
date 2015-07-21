@@ -20,10 +20,4 @@ class mainComponent {
     }
 }
 
-class pantryItem {
-    name: string;
-    quantity: integer;
-    measurmentType: object;
-}
-
 bootstrap(mainComponent);
