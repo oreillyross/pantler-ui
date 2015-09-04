@@ -1,0 +1,8 @@
+body {
+  background: no-repeat url(../images/pantry_back.JPG);
+  max-width: 100%;
+  margin: 2em auto;
+  display: flex;
+  justify-content: center;
+  font-family: 'avenir next', avenir, helvetica, 'helvetica neue', arial, sans-serif;
+}
