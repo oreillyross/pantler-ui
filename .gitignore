@@ -22,3 +22,4 @@ npm-debug.log
 /tmp/
 /scripts/bower/bower-*
 /typings
+/angular2-webpack-starter/
