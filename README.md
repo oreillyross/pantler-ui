@@ -1,7 +1,11 @@
-# pantler-ui
+# TypeScript Sample: Raytracer 
 
-This is the front end for the pantler application. It uses Angular JS mostly.
+## Overview 
 
-` come code sample ` 
+This sample shows a raytracer implementation in TypeScript.
 
-
+## Running
+```
+tsc --sourcemap raytracer.ts
+start raytracer.html
+```
