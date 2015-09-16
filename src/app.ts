@@ -16,7 +16,7 @@ import {Component, View, bootstrap} from 'angular2/angular2';
 class mainComponent {
     name: string;
     constructor() {
-        this.name = 'This works cool';
+        this.name = 'This works Roo!';
     }
 }
 
