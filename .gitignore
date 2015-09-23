@@ -1,4 +1,5 @@
 /build/
+/built/
 /benchpress-build/
 .DS_Store
 gen_docs.disable
@@ -20,3 +21,5 @@ libpeerconnection.log
 npm-debug.log
 /tmp/
 /scripts/bower/bower-*
+/typings
+/angular2-webpack-starter/
