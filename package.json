@@ -1,0 +1,30 @@
+{
+  "name": "pantler-ui",
+  "version": "1.0.0",
+  "description": "Pantler front end",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oreillyross/pantler-ui.git"
+  },
+  "author": "Ross OReilly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oreillyross/pantler-ui/issues"
+  },
+  "homepage": "https://github.com/oreillyross/pantler-ui/wiki",
+  "dependencies": {
+    "autoprefixer-loader": "1.1.0",
+    "babel-core": "^4.7.5",
+    "babel-loader": "^4.1.0",
+    "css-loader": "^0.9.1",
+    "extract-text-webpack-plugin": "^0.3.8",
+    "react": "^0.12.2",
+    "sass-loader": "^0.4.1",
+    "style-loader": "^0.8.3",
+    "webpack": "^1.7.2"
+  }
+}
