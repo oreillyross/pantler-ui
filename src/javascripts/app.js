@@ -1,4 +1,1 @@
-function helloWorld() {
-    return "Hello, World";
-} 
-
+require('./bootstrap.css'); 
