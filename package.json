@@ -32,5 +32,10 @@
     "karma-coverage": "~0.2.4",
     "karma-jasmine": "~0.1.0",
     "karma-phantomjs-launcher": "^0.1.4"
+  },
+  "devDependencies": {
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-qunit": "^0.1.8",
+    "qunitjs": "^1.20.0"
   }
 }
