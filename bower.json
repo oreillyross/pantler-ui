@@ -1,0 +1,24 @@
+{
+  "name": "pantler-ui",
+  "description": "Pantler front end",
+  "main": "index.js",
+  "authors": [
+    "Ross OReilly"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/oreillyross/pantler-ui",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
