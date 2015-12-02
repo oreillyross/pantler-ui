@@ -36,6 +36,8 @@
   "devDependencies": {
     "karma-chrome-launcher": "^0.2.2",
     "karma-qunit": "^0.1.8",
-    "qunitjs": "^1.20.0"
+    "karma-requirejs": "^0.2.2",
+    "qunitjs": "^1.20.0",
+    "requirejs": "^2.1.22"
   }
 }
