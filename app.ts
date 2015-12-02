@@ -1,0 +1,4 @@
+interface IIngredient {
+    name: string;
+}
+
