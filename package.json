@@ -34,6 +34,7 @@
     "karma-phantomjs-launcher": "^0.1.4"
   },
   "devDependencies": {
+    "gulp": "^3.9.0",
     "karma-chrome-launcher": "^0.2.2",
     "karma-qunit": "^0.1.8",
     "karma-requirejs": "^0.2.2",
