@@ -42,6 +42,7 @@
   },
   "devDependencies": {
     "gulp": "^3.9.0",
+    "gulp-typescript": "^2.10.0",
     "karma-chrome-launcher": "^0.2.2",
     "karma-qunit": "^0.1.8",
     "karma-requirejs": "^0.2.2",
